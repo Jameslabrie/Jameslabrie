@@ -1,7 +1,7 @@
 <h1 align="center">Приветствую в своем профиле!
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Я+начинающий+Frontend-разработчик.+Здесь+буду+делиться+своими+наработками+.)](https://git.io/typing-svg)
+<p align items = 'center'>[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Я+начинающий+Frontend-разработчик.+Здесь+буду+делиться+своими+наработками+.)](https://git.io/typing-svg)</p>
 
  
 🌱 В данный момент изучаю: <br><br>
