@@ -3,7 +3,6 @@
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Я+начинающий+Frontend-разработчик)](https://git.io/typing-svg)<br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=.+Здесь+буду+делиться+своими+наработками)](https://git.io/typing-svg)
 
  
 🌱 В данный момент изучаю: <br><br>
